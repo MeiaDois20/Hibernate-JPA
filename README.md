@@ -158,7 +158,6 @@ public class Main {
 ## 👤 Autor
 
 **Thalys Ravel**
-Estudante de Java e Backend
 
 ---
 
